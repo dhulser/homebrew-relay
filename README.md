@@ -1,6 +1,6 @@
 # homebrew-relay
 
-Homebrew tap for [Relay](https://github.com/dhulser/Relay), live translated subtitles for your Mac.
+Homebrew tap for [Relay: Live Translator](https://github.com/dhulser/Relay), live translated subtitles for your Mac.
 
 ```bash
 brew install --cask dhulser/relay/relay
