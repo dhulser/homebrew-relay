@@ -1,6 +1,6 @@
 cask "relay" do
   version "1.1.0"
-  sha256 "449b40d0034f9910b7ce0ea20ac77bf0f0600bfecc070f4b8232091d6fed3c37"
+  sha256 "608db0b70917c263e05c02c14a22c8ef3251ba11c263afd68e739a3203d2a5d8"
 
   url "https://github.com/dhulser/Relay/releases/download/v#{version}/Relay.dmg"
   name "Relay: Live Translator"
